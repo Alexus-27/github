@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\AutorisationForm\bin\Debug\AutorisationForm.exe.config
+C:\Users\Alex\source\repos\AutorisationForm\bin\Debug\AutorisationForm.exe
+C:\Users\Alex\source\repos\AutorisationForm\bin\Debug\AutorisationForm.pdb
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Form1.resources
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Form2.resources
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Properties.Resources.resources
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.exe
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.pdb
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Form3.resources
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Form4.resources
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Form5.resources
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.Form6.resources
+C:\Users\Alex\source\repos\AutorisationForm\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Alex\source\repos\AutorisationForm\obj\Debug\AutorisationForm.csproj.CopyComplete
